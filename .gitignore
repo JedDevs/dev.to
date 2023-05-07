@@ -113,3 +113,7 @@ doc/
 # spec reports
 /spec/reports
 /junit.xml
+
+# git processing issues
+.env.test
+Dockerfile
